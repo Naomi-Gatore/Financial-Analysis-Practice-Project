@@ -1,7 +1,7 @@
 # Financial Analysis Practice Project
 
 A collection of Python financial analysis projects 
-analyzing Microsoft and Facebook stock data.
+analyzing Microsoft stock data.
 
 # Projects:
 1. 01-financial-analysis-practice - Financial Analysis 
